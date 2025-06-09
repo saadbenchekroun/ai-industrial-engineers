@@ -1,4 +1,4 @@
-# AI Industrial Engineer Agents
+# AI agents as Senior Industrial Engineers
 
 ( DM for Code, Commercialization, or Contribution)
 
